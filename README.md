@@ -14,7 +14,17 @@
 
 ###
 
-<h1 align="center">Reposit&oacute;rios com exerc&iacute;cios:</h1>
+<h3 align="center">Em andamento:</h3>
+
+<h4> Graduação </h4>
+<p>Desenvolvimento de Software Multiplataforma - FATEC Mau&aacute;</p>
+
+###
+
+<h3 align="center">Reposit&oacute;rios com exerc&iacute;cios:</h3>
+
+<p>Os reposit&oacute;rios criados para entrega de exerc&iacute;cios ou atividades da minha gradua&ccedil;&atilde;o est&atilde;o organizados da seguinte forma:<br>
+</p>
 
 <p>(INSTITUI&Ccedil;&Atilde;O)_(MAT&Eacute;RIA)_(N&ordm; DA AULA).(NOME DA ATIVIDADE)</p>
 
