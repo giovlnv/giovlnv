@@ -16,7 +16,7 @@
 
 <h1 align="center">Reposit&oacute;rios com exerc&iacute;cios:</h1>
 
-<p><INSTITUI&Ccedil;&Atilde;O>_<MAT&Eacute;RIA>_<N&ordm; DA AULA>.<NOME DA ATIVIDADE></p>
+<p>(INSTITUI&Ccedil;&Atilde;O)_(MAT&Eacute;RIA)_(N&ordm; DA AULA).(NOME DA ATIVIDADE)</p>
 
 <p>Ex: FATEC_IEC_01.learn_git</p>
 
