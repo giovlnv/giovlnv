@@ -14,14 +14,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm gio from Brazil<br><br>- 🔭 I’m working as an Intern<br>- 📚 I'm currently learning the basics<br>- ⚡ In my free time I read</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
