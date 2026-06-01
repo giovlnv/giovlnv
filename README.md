@@ -44,10 +44,12 @@
 
 ###
 
-<h3 align="center">knowledge</h3>
+<h3 align="center">misc</h3>
 
 | level | technologies |
 |---------|---------|
 | learning | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30"> |
 | comfortable with | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"> |
 | in a pinch | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"> |
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000199.9f8ac7640e554f13982d7e6c0eb35a6e.1955)](https://music-profile.rayriffy.com)
