@@ -10,41 +10,41 @@
 
 ###
 
-<h3 align="center">Studies</h3>
+<h3 align="center">studies</h3>
 
-<h4> New Language </h4>
+<h4> new language </h4>
 <p>Lua</p>
 
-<h4><i> College </i></h4>
+<h4><i> college </i></h4>
 <p><i>Desenvolvimento de Software Multiplataforma - FATEC Mau&aacute;</i></p>
 
 #
 
 ###
 
-<h3 align="center">Repos with Exercises</h3>
+<h3 align="center">repos with exercises</h3>
 
-<h4> Studies </h4>
-<p>Repositories creted for projects and exercises are named thus: :<br>
+<h4> studies </h4>
+<p>repositories creted for projects and exercises are named thus: :<br>
 </p>
 
 <p>(LANGUAGE)_(YEARMONTH).(PROJECT NAME)</p>
 
-<p>Ex: LUA_202606.block_letters</p>
+<p>ex: LUA_202606.block_letters</p>
 
-<h4> College </h4>
-<p>Repositories creted to turn in exercises and activities from my college course are named thus: :<br>
+<h4> college </h4>
+<p>repositories creted to turn in exercises and activities from my college course are named thus: :<br>
 </p>
 
 <p>(INSTITUTION)_(CLASS INITIALS)_(CLASS NUMBER).(ACTIVITY NAME)</p>
 
-<p>Ex: FATEC_IEC_01.learn_git</p>
+<p>ex: FATEC_IEC_01.learn_git</p>
 
 #
 
 ###
 
-| Level | Technologies |
+| level | technologies |
 |---------|---------|
 | learning | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30"> |
 | comfortable with | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"> |
