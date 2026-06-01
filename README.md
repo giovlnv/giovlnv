@@ -1,80 +1,52 @@
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=giovlnv.giovlnv&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=giovlnv.giovlnv&" />
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+most repositories here are exercises, experiments, and projects created while learning something new.
 
-###
+### currently studying
 
-<h3 align="center">studies</h3>
+**new language:** lua
 
-<h4> new language </h4>
-<p>Lua</p>
+### what i like creating
 
-<h4><i> courses </h4>
-<p>Desenvolvimento de Software Multiplataforma - FATEC Mau&aacute;</i></p>
+- automation tools
+- productivity utilities
+- data organization projects
+- anything that saves me from doing the same task twice
 
-#
+---
 
-###
+### repository naming
 
-<h3 align="center">repos with exercises</h3>
+**independent studies**
 
-<h4> studies </h4>
-<p>repositories created for independent projects and exercises are named thus: :<br>
-</p>
+`(language)_(yearmonth).(project_name)`
 
-<p>(LANGUAGE)_(YEARMONTH).(PROJECT NAME)</p>
+example: `lua_202606.block_letters`
 
-<p>ex: LUA_202606.block_letters</p>
+**coursework**
 
-<h4> courses </h4>
-<p>repositories created to turn in exercises and activities from courses such as college classes and udemy courses are named thus: :<br>
-</p>
+`(institution)_(class_initials)_(class_number).(activity_name)`
 
-<p>(INSTITUTION)_(CLASS INITIALS)_(CLASS NUMBER).(ACTIVITY NAME)</p>
+example: `fatec_iec_01.learn_git`
 
-<p>ex: FATEC_IEC_01.learn_git</p>
+---
 
-#
+### technologies
 
-###
+| learning | comfortable with | gun to my head |
+|-----------|-----------|-----------|
+| <img src="https://skillicons.dev/icons?i=lua" /> | <img src="https://skillicons.dev/icons?i=html,css,js,cpp" /> | <img src="https://skillicons.dev/icons?i=aws,php,java,mongodb" /> |
 
-<h3 align="center">misc</h3>
+---
 
-<div align="center">
+### outside of coding
 
-<table>
-<tr>
-<th>&nbsp; learning &nbsp;</th>
-<th>&nbsp; comfortable with &nbsp;</th>
-<th>&nbsp;&nbsp; gun to my head &nbsp;&nbsp;</th>
-</tr>
+currently reading books faster than i finish repositories.
 
-<tr>
-<td align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua" />
-  </a>
-</td>
+i watch a lot of movies and keep track of them on [letterboxd](https://letterboxd.com/laviencats/).
 
-<td align="center">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp" />
-  </a>
-</td>
-
-<td align="center">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,php,java,mongodb" />
-  </a>
-</td>
-</tr>
-</table>
-
-
-###
+most projects begin with "there has to be a way to automate this". most coding sessions begin with taylor swift.
