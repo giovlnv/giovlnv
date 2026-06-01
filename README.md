@@ -25,7 +25,7 @@
 <h3 align="center">Reposit&oacute;rios com exerc&iacute;cios:</h3>
 
 <h4> Estudos </h4>
-<p>Os reposit&oacute;rios criados para estudos e exerc&iacute;cios ou aprendizados est&atilde;o organizados da seguinte forma:<br>
+<p>Os reposit&oacute;rios criados para projetos e exerc&iacute;cios est&atilde;o organizados da seguinte forma:<br>
 </p>
 
 <p>(NOME DA LINGUAGEM)_(ANOMES).(NOME DO PROJETO)</p>
