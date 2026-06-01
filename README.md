@@ -8,8 +8,6 @@
 
 <h1 align="center">hey there 👋</h1>
 
-#
-
 ###
 
 <h3>Em andamento:</h3>
@@ -32,19 +30,21 @@
 
 <h3 align="left">Reposit&oacute;rios com exerc&iacute;cios:</h3>
 
-<p>Os reposit&oacute;rios criados para entrega de exerc&iacute;cios ou atividades da minha gradua&ccedil;&atilde;o est&atilde;o organizados da seguinte forma:<br>
-</p>
-
-<p>(INSTITUI&Ccedil;&Atilde;O)_(MAT&Eacute;RIA)_(N&ordm; DA AULA).(NOME DA ATIVIDADE)</p>
-
-<p>Ex: FATEC_IEC_01.learn_git</p>
-
+<h4> Estudos </h4>
 <p>Os reposit&oacute;rios criados para estudos e exerc&iacute;cios ou aprendizados est&atilde;o organizados da seguinte forma:<br>
 </p>
 
 <p>(NOME DA LINGUAGEM)_(ANOMES).(NOME DO PROJETO)</p>
 
 <p>Ex: LUA_202606.block_letters</p>
+
+<h4> Graduação </h4>
+<p>Os reposit&oacute;rios criados para entrega de exerc&iacute;cios ou atividades da minha gradua&ccedil;&atilde;o est&atilde;o organizados da seguinte forma:<br>
+</p>
+
+<p>(INSTITUI&Ccedil;&Atilde;O)_(MAT&Eacute;RIA)_(N&ordm; DA AULA).(NOME DA ATIVIDADE)</p>
+
+<p>Ex: FATEC_IEC_01.learn_git</p>
 
 #
 
