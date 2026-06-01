@@ -10,25 +10,21 @@
 
 ###
 
-<h3 align="center">Em andamento:</h3>
-
-###
+<h3>Em andamento:</h3>
 
 <h4> Nova Linguagem </h4>
-<p>Lua Programming</p>
+<p>Lua</p>
 
 ###
 
-<h3 align="center">Em pausa:</h3>
-
-###
+<h3 align="left">Em pausa:</h3>
 
 <h4> Graduação </h4>
 <p>Desenvolvimento de Software Multiplataforma - FATEC Mau&aacute;</p>
 
 ###
 
-<h3 align="center">Reposit&oacute;rios com exerc&iacute;cios:</h3>
+<h3 align="left">Reposit&oacute;rios com exerc&iacute;cios:</h3>
 
 <p>Os reposit&oacute;rios criados para entrega de exerc&iacute;cios ou atividades da minha gradua&ccedil;&atilde;o est&atilde;o organizados da seguinte forma:<br>
 </p>
@@ -46,12 +42,9 @@
 
 <p>Ex: LUA_202606.block_letters</p>
 
-
 ###
 
 <h3 align="left">🛠 Languages and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -66,19 +59,22 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
 </div>
 
 ###
