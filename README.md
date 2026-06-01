@@ -10,25 +10,19 @@
 
 ###
 
-<h3>Em andamento:</h3>
+<h3 align="center">Estudos:</h3>
 
 <h4> Nova Linguagem </h4>
 <p>Lua</p>
 
-#
-
-###
-
-<h3 align="left">Em pausa:</h3>
-
-<h4> Graduação </h4>
+<h4><i> Graduação </i></h4>
 <p>Desenvolvimento de Software Multiplataforma - FATEC Mau&aacute;</p>
 
 #
 
 ###
 
-<h3 align="left">Reposit&oacute;rios com exerc&iacute;cios:</h3>
+<h3 align="center">Reposit&oacute;rios com exerc&iacute;cios:</h3>
 
 <h4> Estudos </h4>
 <p>Os reposit&oacute;rios criados para estudos e exerc&iacute;cios ou aprendizados est&atilde;o organizados da seguinte forma:<br>
@@ -52,7 +46,7 @@
 
 <h3 align="left">🛠 Languages and tools</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
