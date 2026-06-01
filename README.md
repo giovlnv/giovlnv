@@ -48,7 +48,7 @@
 
   <table><tr><td valign="top" width="33%">
   
-    ### learning
+    learning
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
       <img width="12" />
@@ -57,7 +57,7 @@
   </td>
   <td valign="top" width="33%">
   
-    ### comfortable With
+    comfortable With
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
       <img width="12" />
@@ -82,7 +82,7 @@
   </td>
   <td valign="top" width="33%">
 
-    ### in a pinch
+    in a pinch
     <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
       <img width="12" />
