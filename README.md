@@ -16,7 +16,7 @@
 <p>Lua</p>
 
 <h4><i> Graduação </i></h4>
-<p>Desenvolvimento de Software Multiplataforma - FATEC Mau&aacute;</p>
+<p><i>Desenvolvimento de Software Multiplataforma - FATEC Mau&aacute;</i></p>
 
 #
 
