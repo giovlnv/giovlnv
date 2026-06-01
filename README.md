@@ -8,6 +8,8 @@
 
 <h1 align="center">hey there 👋</h1>
 
+#
+
 ###
 
 <h3>Em andamento:</h3>
@@ -15,12 +17,16 @@
 <h4> Nova Linguagem </h4>
 <p>Lua</p>
 
+#
+
 ###
 
 <h3 align="left">Em pausa:</h3>
 
 <h4> Graduação </h4>
 <p>Desenvolvimento de Software Multiplataforma - FATEC Mau&aacute;</p>
+
+#
 
 ###
 
@@ -33,14 +39,14 @@
 
 <p>Ex: FATEC_IEC_01.learn_git</p>
 
-#
-
 <p>Os reposit&oacute;rios criados para estudos e exerc&iacute;cios ou aprendizados est&atilde;o organizados da seguinte forma:<br>
 </p>
 
 <p>(NOME DA LINGUAGEM)_(ANOMES).(NOME DO PROJETO)</p>
 
 <p>Ex: LUA_202606.block_letters</p>
+
+#
 
 ###
 
