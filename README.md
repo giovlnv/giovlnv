@@ -33,7 +33,7 @@
 
 <p>Ex: FATEC_IEC_01.learn_git</p>
 
-##
+#
 
 <p>Os reposit&oacute;rios criados para estudos e exerc&iacute;cios ou aprendizados est&atilde;o organizados da seguinte forma:<br>
 </p>
