@@ -14,6 +14,15 @@
 
 ###
 
+<h4> Nova Linguagem </h4>
+<p>Lua Programming</p>
+
+###
+
+<h3 align="center">Em pausa:</h3>
+
+###
+
 <h4> Graduação </h4>
 <p>Desenvolvimento de Software Multiplataforma - FATEC Mau&aacute;</p>
 
@@ -28,9 +37,19 @@
 
 <p>Ex: FATEC_IEC_01.learn_git</p>
 
+<br></br>
+
+<p>Os reposit&oacute;rios criados para estudos e exerc&iacute;cios ou aprendizados est&atilde;o organizados da seguinte forma:<br>
+</p>
+
+<p>(NOME DA LINGUAGEM)_(ANOMES).(NOME DO PROJETO)</p>
+
+<p>Ex: LUA_202606.block_letters</p>
+
+
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
