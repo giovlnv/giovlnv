@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=giovlnv.giovlnv&" />
 </div>
 
-hi, i'm gio.  
+hi, i'm mars.  
 i like building things that automate boring tasks and turn chaos into structure.
 
 ---
