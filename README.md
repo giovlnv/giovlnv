@@ -61,6 +61,7 @@ example: `lua_202606.block_letters`
 example: `fatec_iec_01.learn_git`
 
 **personal projects**
+
 `(platform)_(yearmonth).(project_name)`
 
 
