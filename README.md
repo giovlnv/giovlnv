@@ -64,8 +64,7 @@ example: `fatec_iec_01.learn_git`
 
 `(platform)_(yearmonth).(project_name)`
 
-
-Example: `ios_202610.familiar`
+example: `ios_202610.familiar`
 
 ---
 
