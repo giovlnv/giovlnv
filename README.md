@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=giovlnv.giovlnv&" />
+
+  ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=giovlnv&metric=hours)
+  ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=giovlnv&metric=commits)
+
 </div>
 
 hi, i'm mars.  
-i like building things that automate boring tasks and turn chaos into structure.
+i like building things that automate boring tasks and turn chaos into structure.  
+most repositories here are exercises, experiments, and projects created while learning something new.
 
 ---
 
@@ -33,14 +37,11 @@ i like building things that automate boring tasks and turn chaos into structure.
 
 </div>
 
-most repositories here are exercises, experiments, and projects created while learning something new.
-
-
 <div align="center">
   
-| what i like creating |  |
-|--|--|
-| - automation tools<br>- productivity utilities<br>- data organization projects<br>- anything that saves me from doing the same task twice | <img src="https://github.com/giovlnv/github-stats-transparent/blob/main/generated/languages.svg" /> |
+| what i like creating | most used languages | stats | 
+|--|--|--|
+| - automation tools<br>- productivity utilities<br>- data organization projects<br>- anything that saves me from doing the same task twice | ![Top Languages](https://ghstats.dev/api/langs?username=giovlnv&hide_border=true&hide_title=true&layout=grid) | ![GitHub Stats Card](https://ghstats.dev/api/card?username=giovlnv&hide_border=true&hide_title=true&hide=stars%2Cprs%2Cissues%2Cstreak%2Ctrend%2Cavg%2Cactive_day%2Ccontributions%2Cfollowers) |
 
 </div>
 
